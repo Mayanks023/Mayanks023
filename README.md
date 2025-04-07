@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mayank</h1>
+<h1 align="center">Hi 👋, I'm Mayank (Vanshik gaur)</h1>
 <h3 align="center">Welcome to my virtual playground! Explore my coding universe and join the mission</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayanks023&label=Profile%20views&color=0e75b6&style=flat" alt="mayanks023" /> </p>
